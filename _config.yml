@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yingpeng MA (Poole)"
-description              : "Research Assistant @ WestlakeNLP"
-repository               : "yingpengma/yingpengma.github.io"
+title                    : "Bei Shi"
+description              : "Research Assistant @ LINs lab"
+repository               : "hishibei/hishibei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yingpeng MA"
-  avatar           : "images/me.jpg"
+  name             : "Bei Shi"
+  avatar           : "images/signature.jpg"
   bio              : "Westlake University"
   location         : "Hangzhou, Zhejiang"
   employer         :
   pubmed           : 
   googlescholar    : #https://scholar.google.com/citations?user=Qrghm1QAAAAJ"
-  email            : "mayingpeng@westlake.edu.cn"
+  email            : "shibei0430@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yingpengma"# e.g., "github username"
+  github           : "hishibei"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
