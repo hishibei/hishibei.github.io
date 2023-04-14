@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Bei Shi (石倍). I am a Research Assistant at [LINs lab (学习与推理系统实验室)](https://lins-lab.github.io/group/), supervised by [Prof.Tao Lin(林涛)](https://tlin-taolin.github.io/). Prior to this, I obtained my B.E. degree at Northwestern Polytechnical University (西北工业大学), supervised by [Prof.Chunwei Tian (田春伟)](https://hellloxiaotian.github.io/).
+Hello, I am Bei Shi (石倍). I am a Visiting Student at [LINs lab (学习与推理系统实验室)](https://lins-lab.github.io/group/), supervised by [Prof.Tao Lin(林涛)](https://tlin-taolin.github.io/). Prior to this, I obtained my B.E. degree at Northwestern Polytechnical University (西北工业大学), supervised by [Prof.Chunwei Tian (田春伟)](https://hellloxiaotian.github.io/).
 
 My research interests lie primarily in the field of Neural Network.
 

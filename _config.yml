@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bei Shi"
-  avatar           : "images/signature.jpg"
+  avatar           : "images/signature.png"
   bio              : "Westlake University"
   location         : "Hangzhou, Zhejiang"
   employer         :
